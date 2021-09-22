@@ -6,4 +6,11 @@ for this visualization project i used matplotlib library.
 <br>
 for startup data I used Kaggle dataset.
 <br>
+<img src ="plot1.PNG">
+<br>
+<img src ="plot2.PNG">
+<br>
+<img src ="plot3.PNG">
+
+
 
